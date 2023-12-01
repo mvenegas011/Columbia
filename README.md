@@ -17,7 +17,7 @@ unordered list
   
   [title](https://www.example.com)
 
-  ![alt text]([image.jpg](https://www.shutterstock.com/image-vector/hello-world-code-illustration-coding-concept-1239139120)https://www.shutterstock.com/image-vector/hello-world-code-illustration-coding-concept-1239139120)
+![alt text](image.jpg)
 
 | Title | Description | another column |
 | ----------- | ----------- | ----------- |
@@ -27,4 +27,17 @@ unordered list
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
+
+### My Great Heading {#custom-id}
+
+~~The world is flat.~~
+
+- [ ] Write the press release
+- [ ] Update the website
+- [x] Contact the media
+
+That is so funny! :joy:
+
+complicated word
+: definition of it
 
